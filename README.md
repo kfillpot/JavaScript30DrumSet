@@ -1,1 +1,1 @@
-# JavaScript30DrumSet
+# JavaScript 30 Day - Drum Set 
